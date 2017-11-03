@@ -1,0 +1,27 @@
+27-22-2017 15:22:49 ERROR [com.cg.uas.dao.DaoUasImpl] - java.sql.SQLDataException: ORA-01861: literal does not match format string
+
+ 27-34-2017 15:34:46 ERROR [com.cg.uas.dao.DaoUasImpl] - java.sql.SQLException: Invalid column index
+ 27-45-2017 15:45:34 ERROR [com.cg.uas.dao.DaoUasImpl] - java.sql.SQLException: Invalid column index
+ 27-50-2017 15:50:49 ERROR [com.cg.uas.dao.DaoUasImpl] - java.sql.SQLException: Invalid column index
+ 27-52-2017 15:52:19 ERROR [com.cg.uas.dao.DaoUasImpl] - java.sql.SQLSyntaxErrorException: ORA-00913: too many values
+
+ 30-49-2017 16:49:53 ERROR [com.cg.uas.dao.DaoUasImpl] - java.sql.SQLException: ORA-12899: value too large for column "SYSTEM"."PROGRAMS_OFFERED"."PROGRAMNAME" (actual: 9, maximum: 5)
+
+ 30-13-2017 17:13:14 ERROR [com.cg.uas.dao.DaoUasImpl] - java.sql.SQLException: Missing IN or OUT parameter at index:: 8
+ 31-15-2017 09:15:27 ERROR [com.cg.uas.dao.DaoUasImpl] - java.sql.SQLException: Missing IN or OUT parameter at index:: 8
+ 31-40-2017 09:40:00 ERROR [com.cg.uas.dao.DaoUasImpl] - java.sql.SQLException: Missing IN or OUT parameter at index:: 8
+ 31-11-2017 11:11:25 ERROR [com.cg.uas.dao.DaoUasImpl] - java.sql.SQLIntegrityConstraintViolationException: ORA-00001: unique constraint (SYSTEM.SYS_C007340) violated
+
+ 31-11-2017 11:11:25 ERROR [com.cg.uas.dao.DaoUasImpl] - com.cg.uas.exception.UasException: Failed to Add Programs offered
+ 31-37-2017 11:37:08 ERROR [com.cg.uas.dao.DaoUasImpl] - java.sql.SQLIntegrityConstraintViolationException: ORA-00001: unique constraint (SYSTEM.SYS_C007340) violated
+
+ 31-43-2017 11:43:06 ERROR [com.cg.uas.dao.DaoUasImpl] - java.sql.SQLIntegrityConstraintViolationException: ORA-02292: integrity constraint (SYSTEM.SYS_C007342) violated - child record found
+
+ 02-49-2017 09:49:32 DEBUG [com.cg.uas.dao.DaoUasImpl] - writing to file
+ 02-52-2017 09:52:16 DEBUG [com.cg.uas.dao.DaoUasImpl] - writing to file
+ 02-53-2017 09:53:47 DEBUG [com.cg.uas.dao.DaoUasImpl] - writing to file
+ 02-54-2017 09:54:15 DEBUG [com.cg.uas.dao.DaoUasImpl] - writing to file
+ 02-59-2017 09:59:51 DEBUG [com.cg.uas.dao.DaoUasImpl] - writing to file
+ 02-01-2017 10:01:40 DEBUG [com.cg.uas.dao.DaoUasImpl] - writing to file
+ 02-03-2017 10:03:11 DEBUG [com.cg.uas.dao.DaoUasImpl] - writing to file
+ 
